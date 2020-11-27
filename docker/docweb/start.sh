@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-#PEACH_TARGET="gitlab.apusic.net/acp/webdocs.git"
-#GIT_USERNAME="chengshitao"
-#GIT_PASSWORD="apusic\\\$2020"
+#PEACH_TARGET=""
+#GIT_USERNAME=""
+#GIT_PASSWORD=""
 
 
 echo "target: $PEACH_TARGET"
